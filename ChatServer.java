@@ -2,6 +2,8 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
+
+// This is Server code
 public class ChatServer {
     private static final int PORT = 12345;
     private static Set<String> usernames = new HashSet<>();
